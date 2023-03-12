@@ -1,4 +1,5 @@
 module Main where
+import qualified ABC293.E
 
 main :: IO ()
-main = putStrLn "Hello, Haskell!"
+main = ABC293.E.main

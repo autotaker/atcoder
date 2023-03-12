@@ -31,7 +31,9 @@ executable atcoder
     ABC293.B
     ABC293.C
     ABC293.D
+    ABC293.E
     Lib
+    Lib.Mod
     Lib.UnionFind
 
   -- LANGUAGE extensions used by modules in this package.
