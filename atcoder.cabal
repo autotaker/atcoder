@@ -32,6 +32,7 @@ executable atcoder
     ABC293.C
     ABC293.D
     ABC293.E
+    ABC293.F
     Lib
     Lib.Mod
     Lib.UnionFind
